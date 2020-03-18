@@ -1,0 +1,13 @@
+https://codepen.io/gigaP/pen/abOYBzy
+
+Stretch Review questions: 
+    1. What is the difference between an inline element and a block element?
+	inline elements stay in the same line, block "breaks" to next line level.
+    2. What happens when an element is positioned absolutely? 
+	It will use the reference of the next relative/static element to position itself according to the properties we pass to it.
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+	inline
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+	display block: h1, p and header. display inline: span and a. inline-block: img.
+    5. In your own words, explain the box model. What is the fix for the box model? 
+	Box model is an approach to create, design and position things with CSS. Fix the box model is: margin, border, padding and the content.
